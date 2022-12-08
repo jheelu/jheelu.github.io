@@ -70,8 +70,13 @@ body{
     display: flex;
     justify-content: space-evenly;
 }
+.song{
+    color: rgb(77, 154, 173);
+}
 
-
+#song a{
+    color: rgb(158, 165, 63);
+}
 
 h3{
     color: #D9CAB3;
